@@ -1,0 +1,6 @@
+file:src/main/resources/features/SC1_Register.feature:4
+file:src/main/resources/features/SC5_SwitchCurrency.feature:4
+file:src/main/resources/features/SC4_Search.feature:4
+file:src/main/resources/features/SC12_OrderCheckout.feature:4
+file:src/main/resources/features/SC6_Categories.feature:4
+file:src/main/resources/features/SC3_RestPassword.feature:4
